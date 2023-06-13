@@ -8,7 +8,7 @@ Pages ini merupakan tempat saya untuk berbagi hasil analisis dan source code yan
 * Melakukan scoring pada model regresi untuk menentukan model terbaik
 * Melakukan validasi silang
 * Menerapkan data baru untuk di prediksi oleh model
-<table>
+<table style="border-collapse: collapse;">
   <tr>
     <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/corr_matrix.png" width="400" height="300" /></td>
     <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/cost_by_media.png" width="400" height="300" /></td>
@@ -20,7 +20,7 @@ Pages ini merupakan tempat saya untuk berbagi hasil analisis dan source code yan
 * Visualisasi data untuk mendapatkan Insight yang berguna dalam optimasi penjualan dan eskpansi pasar
 * Membuat RFM model sebagai tahap awal segmentasi pelanggan
 * Mengkombinasikam RFM model yang sudah di buat dengan model clustering K-MEANS++ untuk segmentasi pelanggan
-<table>
+<table style="border-collapse: collapse;">
   <tr>
     <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/kmeans%2B%2Bclustering.png" width="400" height="300" /></td>
     <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/timeline_transaksi1EXPONENTIAL.png" width="400" height="300" /></td>
