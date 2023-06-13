@@ -1,4 +1,4 @@
-# bayunugroho-portofolio
+# bayunugroho_portofolio
 Pages ini merupakan tempat saya untuk berbagi hasil analisis dan source code yang saya gunakan
 
 # Prediction Project 1 : Membangun Model Untuk Memprediksi Biaya Promosi Pada Perusahaan Food Mart
