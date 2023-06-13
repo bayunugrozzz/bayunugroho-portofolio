@@ -5,12 +5,7 @@
 * Melakukan scoring pada model regresi untuk menentukan model terbaik
 * Melakukan validasi silang
 * Menerapkan data baru untuk di prediksi oleh model
-<table style="border-collapse: collapse;">
-  <tr>
-    <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/corr_matrix.png" width="400" height="300" /></td>
-    <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/cost_by_media.png" width="400" height="300" /></td>
-  </tr>
-</table>
+![]/images/corr_matrix.png)
 
 # [Segmentation Project : Membangun Model Untuk Segmentasi Pelanggan Pada Sebuah Perusahaan Online Store dengan K-MEANS++](https://github.com/bayunugrozzz/analiytics-project/blob/main/onlinestore_segmentation-jupyternotebook.ipynb)
 * Melakulan metode Exsponensial smoothing pada data time series untuk membaca trend transaksi
@@ -19,7 +14,7 @@
 * Mengkombinasikam RFM model yang sudah di buat dengan model clustering K-MEANS++ untuk segmentasi pelanggan
 <table style="border-collapse: collapse;">
   <tr>
-    <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/kmeans%2B%2Bclustering.png" width="400" height="300" /></td>
-    <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/timeline_transaksi1EXPONENTIAL.png" width="400" height="300" /></td>
+    <td><img src="/images/kmeans%2B%2Bclustering.png" width="400" height="300" /></td>
+    <td><img src="/images/timeline_transaksi1EXPONENTIAL.png" width="400" height="300" /></td>
   </tr>
 </table>
