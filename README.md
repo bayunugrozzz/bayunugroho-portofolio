@@ -5,7 +5,8 @@
 * Melakukan scoring pada model regresi untuk menentukan model terbaik
 * Melakukan validasi silang
 * Menerapkan data baru untuk di prediksi oleh model
-![]/images/corr_matrix.png)
+
+![](/images/corr_matrix.png)
 
 # [Segmentation Project : Membangun Model Untuk Segmentasi Pelanggan Pada Sebuah Perusahaan Online Store dengan K-MEANS++](https://github.com/bayunugrozzz/analiytics-project/blob/main/onlinestore_segmentation-jupyternotebook.ipynb)
 * Melakulan metode Exsponensial smoothing pada data time series untuk membaca trend transaksi
