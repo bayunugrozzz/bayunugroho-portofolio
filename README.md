@@ -13,9 +13,5 @@
 * Visualisasi data untuk mendapatkan Insight yang berguna dalam optimasi penjualan dan eskpansi pasar
 * Membuat RFM model sebagai tahap awal segmentasi pelanggan
 * Mengkombinasikam RFM model yang sudah di buat dengan model clustering K-MEANS++ untuk segmentasi pelanggan
-<table style="border-collapse: collapse;">
-  <tr>
-    <td><img src="/images/kmeans%2B%2Bclustering.png" width="400" height="300" /></td>
-    <td><img src="/images/timeline_transaksi1EXPONENTIAL.png" width="400" height="300" /></td>
-  </tr>
-</table>
+
+![](images/kmeans%2B%2Bclustering.png)
