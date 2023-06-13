@@ -1,29 +1,84 @@
-# bayunugroho_portofolio
-Pages ini merupakan tempat saya untuk berbagi hasil analisis dan source code yang saya gunakan
+<!DOCTYPE html>
+<html>
 
-# [Prediction Project : Membangun Model Untuk Memprediksi Biaya Promosi Pada Perusahaan Food Mart](https://github.com/bayunugrozzz/analiytics-project/blob/main/FOODMART_CAMPAIGN%20COST%20PREDICTION.ipynb)
-* Melakukan feature selection dengan ANOVA
-* Visualisasi data untuk mendapatkan Insight
-* Membangun beberapa model regresi untuk memprediksi biaya promosi/campaign cost
-* Melakukan scoring pada model regresi untuk menentukan model terbaik
-* Melakukan validasi silang
-* Menerapkan data baru untuk di prediksi oleh model
-<table style="border-collapse: collapse;">
-  <tr>
-    <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/corr_matrix.png" width="400" height="300" /></td>
-    <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/cost_by_media.png" width="400" height="300" /></td>
-  </tr>
-</table>
+<head>
+  <title>Bayu Nugroho Portofolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
 
-# [Segmentation Project : Membangun Model Untuk Segmentasi Pelanggan Pada Sebuah Perusahaan Online Store dengan K-MEANS++](https://github.com/bayunugrozzz/analiytics-project/blob/main/onlinestore_segmentation-jupyternotebook.ipynb)
-* Melakulan metode Exsponensial smoothing pada data time series untuk membaca trend transaksi
-* Visualisasi data untuk mendapatkan Insight yang berguna dalam optimasi penjualan dan eskpansi pasar
-* Membuat RFM model sebagai tahap awal segmentasi pelanggan
-* Mengkombinasikam RFM model yang sudah di buat dengan model clustering K-MEANS++ untuk segmentasi pelanggan
-<table style="border-collapse: collapse;">
-  <tr>
-    <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/kmeans%2B%2Bclustering.png" width="400" height="300" /></td>
-    <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/timeline_transaksi1EXPONENTIAL.png" width="400" height="300" /></td>
-  </tr>
-</table>
+    h1 {
+      color: #333;
+      text-align: center;
+    }
 
+    h2 {
+      color: #555;
+      margin-bottom: 10px;
+    }
+
+    p {
+      color: #777;
+      margin-bottom: 20px;
+    }
+
+    table {
+      border-collapse: collapse;
+      margin-bottom: 30px;
+    }
+
+    td {
+      padding: 10px;
+    }
+
+    img {
+      width: 100%;
+      max-width: 400px;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Bayu Nugroho Portofolio</h1>
+
+  <h2>Proyek Prediksi: Membangun Model untuk Memprediksi Biaya Promosi pada Perusahaan Food Mart</h2>
+
+  <p>
+    Proyek ini bertujuan untuk memprediksi biaya promosi (campaign cost) pada perusahaan Food Mart. Beberapa langkah yang
+    saya lakukan dalam proyek ini antara lain:
+  </p>
+
+  <!-- Tabel dan gambar pertama -->
+  <table>
+    <tr>
+      <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/corr_matrix.png" /></td>
+      <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/cost_by_media.png" /></td>
+    </tr>
+  </table>
+
+  <h2>Proyek Segmentasi: Membangun Model untuk Segmentasi Pelanggan pada Sebuah Perusahaan Online Store dengan K-MEANS++</h2>
+
+  <p>
+    Proyek ini fokus pada segmentasi pelanggan pada perusahaan Online Store. Langkah-langkah yang saya lakukan dalam proyek
+    ini antara lain:
+  </p>
+
+  <!-- Tabel dan gambar kedua -->
+  <table>
+    <tr>
+      <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/kmeans%2B%2Bclustering.png" /></td>
+      <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/timeline_transaksi1EXPONENTIAL.png" /></td>
+    </tr>
+  </table>
+
+  <script>
+    // Optional: You can add JavaScript code here if needed
+  </script>
+</body>
+
+</html>
