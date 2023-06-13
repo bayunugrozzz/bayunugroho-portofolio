@@ -8,9 +8,12 @@ Pages ini merupakan tempat saya untuk berbagi hasil analisis dan source code yan
 * Melakukan scoring pada model regresi untuk menentukan model terbaik
 * Melakukan validasi silang
 * Menerapkan data baru untuk di prediksi oleh model
-<img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/corr_matrix.png" width="400" height="300" />
-
-<img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/cost_by_media.png" width="400" height="300" />
+<table>
+  <tr>
+    <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/corr_matrix.png" width="400" height="300" /></td>
+    <td><img src="https://github.com/bayunugrozzz/bayunugroho-portofolio/blob/main/images/cost_by_media.png" width="400" height="300" /></td>
+  </tr>
+</table>
 
 # [Segmentation Project : Membangun Model Untuk Segmentasi Pelanggan Pada Sebuah Perusahaan Online Store dengan K-MEANS++](https://github.com/bayunugrozzz/analiytics-project/blob/main/onlinestore_segmentation-jupyternotebook.ipynb)
 * Melakulan metode Exsponensial smoothing pada data time series untuk membaca trend transaksi
