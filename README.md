@@ -1,4 +1,4 @@
-![](/images/OIP.jpeg
+![](/images/OIP.jpeg)
 
 # [A/B Testing : penerapanya dalam menentukan harga item virtual di aplikasi game online](https://github.com/bayunugrozzz/analiytics-project/blob/main/bayu%20_%20A_B%20%20testing%20for%20pricing%20recomendation.ipynb)
 * Visualisasi data untuk mendapatkan Insight
