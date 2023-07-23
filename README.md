@@ -3,7 +3,7 @@
 * Melakukan Hypothesis Tetsing
 * Memberikan rekomendasi harga berdasarkan teknik statistik dan pendekatan Fleksibel Pricing 
 
-![](/main/OIP.jpeg)
+![](/images/OIP.jpeg)
 
 # [Prediction Project : Membangun Model Untuk Memprediksi Biaya Promosi Pada Perusahaan Food Mart](https://github.com/bayunugrozzz/analiytics-project/blob/main/FOODMART_CAMPAIGN%20COST%20PREDICTION.ipynb)
 * Melakukan feature selection dengan ANOVA
