@@ -1,3 +1,10 @@
+# [A/B Testing : penerapanya dalam menentukan harga item virtual di aplikasi game online](https://github.com/bayunugrozzz/analiytics-project/blob/main/bayu%20_%20A_B%20%20testing%20for%20pricing%20recomendation.ipynb)
+* Visualisasi data untuk mendapatkan Insight
+* Melakukan Hypothesis Tetsing
+* Memberikan rekomendasi harga berdasarkan teknik statistik dan pendekatan Fleksibel Pricing 
+
+![](/main/OIP.jpeg)
+
 # [Prediction Project : Membangun Model Untuk Memprediksi Biaya Promosi Pada Perusahaan Food Mart](https://github.com/bayunugrozzz/analiytics-project/blob/main/FOODMART_CAMPAIGN%20COST%20PREDICTION.ipynb)
 * Melakukan feature selection dengan ANOVA
 * Visualisasi data untuk mendapatkan Insight
