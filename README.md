@@ -14,7 +14,7 @@
 * Melakukan validasi silang
 * Menerapkan data baru untuk di prediksi oleh model
 
-![](/images/8601246.png)
+![](https:/images/paper-plate-glasses-notepad-pen-pencils-white-background-business-concept-text-predictive-analytics-205303686.webp)
 
 # [Segmentation Project : Membangun Model Untuk Segmentasi Pelanggan Pada Sebuah Perusahaan Online Store dengan K-MEANS++](https://github.com/bayunugrozzz/analiytics-project/blob/main/onlinestore_segmentation-jupyternotebook.ipynb)
 * Melakulan metode Exsponensial smoothing pada data time series untuk membaca trend transaksi
