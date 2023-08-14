@@ -1,6 +1,14 @@
+# [A/B Testing : Penerapanya Dalam Evaluasi Efektifitas penggunaan 2 jenis iklan yang berbeda](https://github.com/bayunugrozzz/analiytics-project/blob/main/marketing_ab_bayu_branch1.12.ipynb)
+* Melakukan Hypothesis Testing
+* Visualisasi data untuk mendapatkan insight
+* memberikan kesimpulan dan saran tentang efektifitas iklan efektif untuk di terapkan
 
-# [A/B Testing : penerapanya dalam menentukan harga item virtual di aplikasi game online](https://github.com/bayunugrozzz/analiytics-project/blob/main/bayu%20_%20A_B%20%20testing%20for%20pricing%20recomendation.ipynb)
-* Visualisasi data untuk mendapatkan Insight
+![](/images/AB-Testing-business.jpg)
+
+
+
+# [A/B Testing : Penerapanya Dalam Menentukan Harga Item Virtual Di Aplikasi Game Online](https://github.com/bayunugrozzz/analiytics-project/blob/main/bayu%20_%20A_B%20%20testing%20for%20pricing%20recomendation.ipynb)
+* Visualisasi data untuk mendapatkan insight
 * Melakukan Hypothesis Tetsing
 * Memberikan rekomendasi harga berdasarkan teknik statistik dan pendekatan Fleksibel Pricing 
 
