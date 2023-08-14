@@ -1,7 +1,7 @@
 # [A/B Testing : Penerapanya Dalam Evaluasi Efektifitas penggunaan 2 jenis iklan yang berbeda](https://github.com/bayunugrozzz/analiytics-project/blob/main/marketing_ab_bayu_branch1.12.ipynb)
 * Melakukan Hypothesis Testing
 * Visualisasi data untuk mendapatkan insight
-* memberikan kesimpulan dan saran tentang efektifitas iklan efektif untuk di terapkan
+* memberikan kesimpulan dan saran tentang efektifitas iklan yang di uji
 
 ![](/images/AB-Testing-business.jpg)
 
